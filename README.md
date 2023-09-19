@@ -5,3 +5,10 @@
 🛠️ Some skills: High-Performance Computing (Fortran, C), Python (numpy, scipy, pandas, geopandas, sympy, and others), data mining and analysis, GIS, LaTeX, Bash, Linux, Docker, HTML, CSS, Javascript, NodeJS, NextJS, SQL, APIs
 
 🔗 You can reach me at [wcota.me](https://wcota.me).
+
+<a href="https://github.com/wcota">
+  <img align="center" src="https://gitstats.wcota.me/api?username=wcota&show_icons=true&hide=contribs&rank_icon=github" />
+</a>
+<a href="https://github.com/wcota">
+  <img align="center" src="https://github-readme-stats-ashy.vercel.app/api/top-langs/?username=wcota&langs_count=6&hide=html,roff,jupyter%20notebook,css&layout=compact" />
+</a>
