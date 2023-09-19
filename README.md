@@ -7,7 +7,7 @@
 🔗 You can reach me at [wcota.me](https://wcota.me).
 
 <a href="https://github.com/wcota">
-  <img align="center" src="https://gitstats.wcota.me/api?username=wcota&show_icons=true&hide=contribs&rank_icon=github" />
+  <img align="center" src="https://gitstats.wcota.me/api?username=wcota&show_icons=true&hide=contribs&rank_icon=github&theme=transparent" />
 </a>
 <a href="https://github.com/wcota">
   <img align="center" src="https://gitstats.wcota.me/api/top-langs/?username=wcota&langs_count=6&hide=html,roff,jupyter%20notebook,css&layout=compact" />
